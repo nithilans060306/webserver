@@ -41,6 +41,7 @@ content='''
 <h2>2.MEAN Stack</h2>
 <h2>3.React </h2>
 <h2>4.Spring </h2>
+<h2>5.MERN stack </h2>
 </body>
 </html>
 '''
@@ -61,10 +62,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### Server output:
-![ServerOutput]
+![ServerOutput](serveroutput.png)
 
 ### Client output:
-![ClientOutput]
+![ClientOutput](clientoutput.png)
 
 ## RESULT:
 The program is executed succesfully
